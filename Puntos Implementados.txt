@@ -1,0 +1,13 @@
+Requisitos (1 pto cada uno, obligatorios):
+* Modelo de datos
+* Funcionalidad (Aplicación web)
+* Funcionalidad (API)
+*  Funcionalidad (Datos relacionados)
+*  Funcionalidad (Android)
+Otras funcionalidades (1 pto cada una)
+* Funcionalidad (Android II)
+* Funcionalidad (API II)
+* Funcionalidad (Web II)
+* Funcionalidad (Programación reactiva)
+* Git Flow
+* Inglés
